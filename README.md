@@ -90,16 +90,14 @@
     <p>𝚃𝚑𝚒𝚜 𝚌𝚘𝚗𝚝𝚎𝚗𝚝 𝚙𝚛𝚘𝚟𝚒𝚍𝚎𝚜 𝚊 𝚋𝚎𝚗𝚎𝚏𝚒𝚝𝚜 𝚘𝚏 𝚜𝚔𝚒𝚗 𝚌𝚊𝚛𝚎 𝚙𝚛𝚘𝚍𝚞𝚌𝚝𝚜 𝚋𝚢 𝚙𝚞𝚛𝚜𝚞𝚒𝚗𝚐 𝚝𝚑𝚎 𝚋𝚎𝚊𝚞𝚝𝚢
     𝚒𝚗𝚝𝚘 𝚝𝚑𝚎 𝚍𝚎𝚜𝚒𝚛𝚎 𝚋𝚢 𝚎𝚡𝚝𝚎𝚛𝚗𝚊𝚕 𝚊𝚙𝚙𝚎𝚊𝚛𝚊𝚗𝚌𝚎𝚜 𝚋𝚢 𝚞𝚜𝚒𝚗𝚐 𝚎𝚊𝚌𝚑 𝚎𝚟𝚎𝚛𝚢 𝚜𝚔𝚒𝚗 𝚌𝚊𝚛𝚎 𝚙𝚛𝚘𝚍𝚞𝚌𝚝𝚜 𝚕𝚒𝚔𝚎 𝚝𝚑𝚒𝚜 
     𝚙𝚛𝚘𝚍𝚞𝚌𝚝𝚜 𝚘𝚏 𝚛𝚎𝚓𝚞𝚟𝚎𝚗𝚊𝚝𝚒𝚗𝚐 𝚜𝚎𝚝𝚜, 𝚠𝚒𝚝𝚑 𝚜𝚞𝚗𝚜𝚌𝚛𝚎𝚎𝚗, 𝚔𝚘𝚓𝚒𝚌 𝚜𝚘𝚊𝚙, 𝚊𝚗𝚍 𝚑𝚢𝚍𝚛𝚊𝚝𝚒𝚘𝚗 𝚝𝚑𝚊𝚝 𝚠𝚒𝚕𝚕 𝚋𝚘𝚘𝚜𝚝 𝚝𝚑𝚎 𝚎𝚏𝚏𝚎𝚌𝚝𝚜 𝚘𝚏 𝚊 𝚜𝚎𝚗𝚜𝚒𝚝𝚒𝚟𝚎 𝚜𝚔𝚒𝚗 𝚝𝚑𝚊𝚝 𝚠𝚒𝚕𝚕 𝚐𝚕𝚘𝚠 𝚒𝚗𝚝𝚘 𝚊 𝚗𝚎𝚠 𝚖𝚊𝚝𝚎𝚛𝚗𝚊𝚕 𝚋𝚎𝚊𝚞𝚝𝚢 𝚊𝚗𝚍 𝚢𝚘𝚞𝚝𝚑𝚏𝚞𝚕 𝚕𝚘𝚘𝚔 𝚒𝚗 𝚘𝚝𝚑𝚎𝚛 𝚋𝚛𝚊𝚗𝚍 𝚘𝚏 𝚜𝚔𝚒𝚗 𝚌𝚊𝚛𝚎 𝚙𝚛𝚘𝚍𝚞𝚌𝚝𝚜 𝚒𝚝 𝚠𝚒𝚕𝚕 𝚎𝚗𝚑𝚊𝚗𝚌𝚎 𝚘𝚝𝚑𝚎𝚛 𝚖𝚎𝚝𝚑𝚘𝚍 𝚝𝚘 𝚊𝚟𝚘𝚒𝚍 𝚊𝚌𝚗𝚎, 𝚙𝚘𝚛𝚎𝚜, 𝚍𝚛𝚢𝚗𝚎𝚜𝚜 𝚊𝚗𝚍 𝚑𝚢𝚙𝚎𝚛𝚙𝚒𝚐𝚖𝚎𝚗𝚝𝚊𝚝𝚒𝚘𝚗 
-    𝚊𝚗𝚍 𝚘𝚝𝚑𝚎𝚛 𝚎𝚏𝚏𝚎𝚌𝚝𝚜 𝚘𝚝𝚑𝚎𝚛 𝚍𝚎𝚛𝚖𝚊𝚝𝚘𝚕𝚘𝚐𝚒𝚜𝚝 𝚝𝚎𝚜𝚝𝚎𝚍 𝚘𝚝𝚑𝚎𝚛 𝚜𝚔𝚒𝚗 𝚌𝚊𝚛𝚎 𝚙𝚛𝚘𝚍𝚞𝚌𝚝𝚜  𝚝𝚑𝚊𝚝 𝚠𝚊𝚜 𝚙𝚛𝚘𝚟𝚎𝚗.<p>;
+    𝚊𝚗𝚍 𝚘𝚝𝚑𝚎𝚛 𝚎𝚏𝚏𝚎𝚌𝚝𝚜 𝚘𝚝𝚑𝚎𝚛 𝚍𝚎𝚛𝚖𝚊𝚝𝚘𝚕𝚘𝚐𝚒𝚜𝚝 𝚝𝚎𝚜𝚝𝚎𝚍 𝚘𝚝𝚑𝚎𝚛 𝚜𝚔𝚒𝚗 𝚌𝚊𝚛𝚎 𝚙𝚛𝚘𝚍𝚞𝚌𝚝𝚜  𝚝𝚑𝚊𝚝 𝚠𝚊𝚜 𝚙𝚛𝚘𝚟𝚎𝚗.<p>
     <div class="row">
         <img src="girlfloweer.jpg" class="img-responsive img-box margin" style="display:inline" alt="Bird" width="400" height="200">
         <img src="flower.jpg" class="img-responsive img-box margin" style="display:inline" alt="Bird" width="400" height="200">
         <img src="faces flowers.jpg" class="img-responsive img-box margin" style="display:inline" alt="Bird" width="400" height="100">
       </div>
-      </div>
-    </div>
-  </div>
- 
+    
+
 
 <!-- Footer -->
 <footer class="container-fluid bg-4 text-center"> 
@@ -185,7 +183,7 @@
       <p></p>
       <div class="row">
         <br>
-        </br>
+  
         
           <!-- Footer -->
 <footer class="container-fluid bg-4 text-left"> 
@@ -195,7 +193,7 @@
 
     <!-- First Container -->
 <div class="container-fluid bg-1 text-center">
-  <h3 class="margin">BODY SCRUB?</h1>
+  <h1 class="margin">BODY SCRUB?
   <img src="body scrub.jpg" class="img-responsive img-box margin" style="display:inline" alt="Bird" width="350" height="350">
   <img src="body scrub girl.jpg" class="img-responsive img-box margin" style="display:inline" alt="Bird" width="350" height="350">
   <img src="hand scrub.jpg" class="img-responsive img-box margin" style="display:inline" alt="Bird" width="350" height="400">
@@ -204,7 +202,6 @@
      sugar, salt, coffee grounds, or microbeads, along with oils and butters to moisturize the skin.
     Some scrubs may also include additional ingredients like vitamins,
      essential oils, or botanical extracts for extra skin benefits.</h3>
-</div>
 <br>
 
      <!-- Footer -->
@@ -221,6 +218,3 @@
 
 
        
-
-</body>
-</html>
